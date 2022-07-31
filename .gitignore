@@ -1,0 +1,20 @@
+# Ignore all configuration files
+**/*.config
+**/*.ini
+
+# Ignore Unity3D builds
+httpdocs/Unity3D/
+**/*.unity3d
+
+# Ignore Google Analytics
+httpdocs/googleAnalytics.js
+
+# Ignore the pictures
+httpdocs/pics
+
+# Ignore the fonts
+httpdocs/fonts
+
+# Ignore various artifacts
+**/UnityObject2.js
+**/jquery.min.js
